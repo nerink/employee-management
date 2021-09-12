@@ -17,6 +17,7 @@ Example of the application being used from the command line:
 
 ![Command Line demo](./Assets/12-sql-homework-demo-01.gif)
 Video Demo:
+https://drive.google.com/file/d/1_Lh3BJcQETIewjSO0Ic14eBSrzx2NlXJ/view
 
 ## Features
 * JavaScript
